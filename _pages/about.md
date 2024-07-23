@@ -9,4 +9,4 @@ redirect_from:
 
 I'm a phd student from [School of Statistics](https://stat.swufe.edu.cn/index/tzgg.htm), [Southwest University of Finance and Economics](https://e.swufe.edu.cn/). My research interest includes machine learning, statistical learning theory, and stochastic optimization.
 
-[Email](mailto:42033076@smail.swufe.edu.cn) / [Github](https://github.com/QiuDi233) 
+[Email](mailto:42033076@smail.swufe.edu.cn) / [Github](https://github.com/RuixiHu) 
